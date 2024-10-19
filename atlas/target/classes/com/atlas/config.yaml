@@ -1,0 +1,7 @@
+bot:
+  token: ""
+  guildID: 0
+other:
+  api: "v10"
+  url: "https://discord.com/api/"
+  version: "1.0.0"
